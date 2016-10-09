@@ -10,7 +10,7 @@
 
     <servlet>
         <servlet-name>mainServlet</servlet-name>
-        <servlet-class>MainServlet</servlet-class>
+        <servlet-class>com.usatu.servlets.MainServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
